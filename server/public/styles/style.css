@@ -1,0 +1,28 @@
+p {
+    color: deepskyblue;
+}
+
+.sortie {
+    display: inline-block;
+}
+
+.room {
+    display: inline-block;
+}
+
+.availYellow {
+    color: orange;
+}
+
+.availRed {
+    color: red;
+}
+
+.availGreen {
+    color: darkgreen;
+}
+
+#appTitle {
+    text-align: center;
+    color: #122b40;
+}
